@@ -6,7 +6,7 @@ Então ordena os processos com base no menor burst time para calcular e exibir:
 - Tempo de retorno (turnaround time).
 - Médias correspondentes.
 
-  **Funcionalidades**
+ **Funcionalidades**
 - Recebe como entrada o número de processos e seus tempos de rajada.
 - Ordena os processos pelo menor tempo de rajada.
 - Calcula o tempo de espera e o tempo de retorno para cada processo.
@@ -24,4 +24,10 @@ Então ordena os processos com base no menor burst time para calcular e exibir:
 - Abra seu terminal na pasta do projeto.
 - Execute o script.
 
+ **Slides**
+- https://docs.google.com/presentation/d/1-afXjsrzqsAtfpxq2GL5Zw62DHek_ki52DlPoE6nWI0/edit?usp=sharing
+
+**Referências**
+- https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/
+- https://www.linkedin.com/advice/1/what-benefits-using-shortest-job-first-algorithm-iuhvc
 
