@@ -13,8 +13,12 @@ Então ordena os processos com base no menor burst time para calcular e exibir:
 - Exibe uma tabela com os resultados detalhados por processo.
 - Calcula o tempo médio de espera e de retorno.
 
+ **Resultados**
+ - O script executa os processos com base no menor burst time para otimizar o tempo de espera.
 
   **Como usar**
 - Clone o repositório ou baixe o arquivo main.py.
 - Abra seu terminal na pasta do projeto.
 - Execute o script.
+
+
