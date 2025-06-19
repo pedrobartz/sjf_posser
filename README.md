@@ -16,6 +16,9 @@ Então ordena os processos com base no menor burst time para calcular e exibir:
  **Resultados**
  - O script executa os processos com base no menor burst time para otimizar o tempo de espera.
 
+  **Apresentação**:
+ https://www.youtube.com/watch?v=G2i0KZrlj4I
+ 
   **Como usar**
 - Clone o repositório ou baixe o arquivo main.py.
 - Abra seu terminal na pasta do projeto.
