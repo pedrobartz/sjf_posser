@@ -1,9 +1,4 @@
-**Augusto Zanin 
-Emanoel Rosa
-João Dambrós
-João Luz
-Pedro Bartz
-Rafael Pedra**
+**Augusto Zanin | Emanoel Rosa | João Dambrós | João Luz | Pedro Bartz | Rafael Pedra**
 
 O script solicita ao usuário o número de processos e os respectivos tempos (burst time).
 Então ordena os processos com base no menor burst time para calcular e exibir:
